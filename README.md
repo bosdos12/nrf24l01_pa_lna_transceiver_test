@@ -1,6 +1,6 @@
 # nrf24l01_pa_lna_transceiver_test
 
-Simple arduino nano based testing and evaluation board for testing NRF24 modules transmittion and reception capabilities.
+Simple Arduino Nano based testing and evaluation board for testing NRF24L01 modules transmission and reception capabilities.
 
 key features:
 1. low drop out linear regulator for running the PCB over a large input voltage range, with dedicated 3.3V for the NRF24l01 and 5.0V for the arduino nano.
