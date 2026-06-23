@@ -150,6 +150,17 @@
   (signal af3ffca8-0085-4edb-a775-fcb759f63411 (net 3baf175e-841e-476a-a2c8-2ef743e5553d))
   (signal e010ecbb-6210-4da3-9270-ebd58656dbf0 (net a872f933-594a-4242-8f36-5e7a932ab095))
  )
+ (component 27cb78c7-caaa-41a5-9a1f-5d4b3212bf03
+  (lib_component e6544100-78be-4c24-9f71-969bdb972d92)
+  (lib_variant 46c92d47-713c-4ca3-8bae-ef0bb2ba3d68)
+  (name "C7") (value "{{ MPN or DEVICE or COMPONENT }}")
+  (lock_assembly false)
+  (device 3a6948c1-2989-426e-83df-9f724891109b
+   (variant a197e903-9ae6-4550-b716-ec4b43b29713)
+  )
+  (signal 9eeec254-38d0-4138-9fb3-9fbf226ced26 (net 3baf175e-841e-476a-a2c8-2ef743e5553d))
+  (signal ae9b6686-4943-49e0-81de-e9a1cba89332 (net 119b66aa-70e1-4133-a479-0b91a1b4c1f9))
+ )
  (component 4364cdb8-8e67-4779-bbd5-bfff08f4ba8b
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
   (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
@@ -206,21 +217,6 @@
   (signal 77342550-bfba-4771-b22c-76c4048915a6 (net none))
   (signal ab49c130-6b32-46fe-8850-60ea1ad1ac36 (net none))
   (signal fd5f344c-3448-4691-bb40-cfbb51b59843 (net 3baf175e-841e-476a-a2c8-2ef743e5553d))
- )
- (component 584189ce-91e2-4223-b0f4-37b54bd0ddba
-  (lib_component c54375c5-7149-4ded-95c5-7462f7301ee7)
-  (lib_variant 5412add2-af9c-44b8-876d-a0fb7c201897)
-  (name "C6") (value "{{CAPACITANCE}}")
-  (lock_assembly false)
-  (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "0.1"))
-  (device 4353b100-937f-4c82-be90-62f4b632ab8b
-   (variant a197e903-9ae6-4550-b716-ec4b43b29713)
-  )
-  (device 7ab2c481-4371-4064-a089-609596085821
-   (variant a197e903-9ae6-4550-b716-ec4b43b29713)
-  )
-  (signal af3ffca8-0085-4edb-a775-fcb759f63411 (net 3baf175e-841e-476a-a2c8-2ef743e5553d))
-  (signal e010ecbb-6210-4da3-9270-ebd58656dbf0 (net 119b66aa-70e1-4133-a479-0b91a1b4c1f9))
  )
  (component 588980e2-f954-457c-880b-3d9e7e853694
   (lib_component 96d0326f-d718-43e6-9884-5798d9775f23)

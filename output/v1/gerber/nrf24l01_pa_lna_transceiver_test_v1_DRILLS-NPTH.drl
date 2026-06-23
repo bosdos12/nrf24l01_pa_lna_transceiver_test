@@ -1,0 +1,22 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,2.1.1
+; #@! TF.CreationDate,2026-06-23T09:12:53
+; #@! TF.ProjectId,nrf24l01_pa_lna_transceiver_test,2a96fcbf-9cc4-48e7-bb54-b4758b16b972,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+; #@! TA.AperFunction,MechanicalDrill
+T1C1.8
+%
+G90
+G05
+M71
+T1
+X7.699375Y31.4325
+X7.699375Y16.1925
+X48.339375Y31.4325
+X48.339375Y16.1925
+T0
+M30
